@@ -1,0 +1,9 @@
+Student Number: 0001
+Last Name: Tirao
+First Name: Gian
+Middle Initial: Yray
+Program: BSIT
+Age: 19
+Gender: Male
+Birthday: 04/25/2006
+Contact Number: 09855431997
